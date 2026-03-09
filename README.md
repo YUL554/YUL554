@@ -1,6 +1,5 @@
-<p align="center">안녕하세요, 개발자 한유리입니다</p>
+<p align="center">안녕하세요, 개발자 한유리입니다 🚀</p>
 
----
 
 <p align="center"> Skills</p>
 
@@ -22,16 +21,4 @@
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </p>
 
----
 
-<p align="center">GitHub Stats</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YUL554&show_icons=true&theme=tokyonight"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YUL554&layout=compact&theme=tokyonight"/>
-</p>
-
----
